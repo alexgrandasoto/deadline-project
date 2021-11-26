@@ -1,5 +1,5 @@
 # Deadline Project
 
-Customazible deadline made with React.JS, TypeScript and Tailwind CSS
+Customazible deadline made with React.JS, TypeScript, Sass and Tailwind CSS
 
 
